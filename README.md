@@ -6,7 +6,7 @@ Welcome to the **Data Science Tutorial** repository! This collection is designed
 
 ## 🚀 What's Inside?
 
-This repository is organized into modular folders and Jupyter notebooks that progressively cover:
+This repository is organised into modular folders and Jupyter notebooks that progressively cover:
 
 ### 🔹 1. Python Programming (Beginner to Advanced)
 - Introduction to Python
@@ -70,15 +70,3 @@ Throughout the notebooks, you’ll find **step-by-step mathematical explanations
 - Loss functions and their curves
 
 ---
-
-## 📂 Folder Structure
-
-```bash
-Data-Science-Tutorial/
-│
-├── Python_Basics/
-├── Statistics_Maths/
-├── Machine_Learning/
-├── Deep_Learning/
-├── Projects/
-└── README.md
