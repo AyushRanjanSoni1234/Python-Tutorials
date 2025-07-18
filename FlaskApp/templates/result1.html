@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<body>
+    <h1>Your Result</h1>
+    <h2>Your score is {{ results }}</h2>
+    {% if results >= 50 %}
+        <h2>Your are Passed</h2>
+    {% else %}
+        <h2>Your are Failed</h2>
+    {% endif %}    
+</body>
+</html>

@@ -1,0 +1,10 @@
+This is a Source text.
+This text is used to copy all content and paste it destination.txt text.
+This is a log text.
+
+This is a Source text.
+This text is used to copy all content and paste it destination.txt text.
+
+This is a stats file.
+This file is used to count number of lines, words and characters.
+

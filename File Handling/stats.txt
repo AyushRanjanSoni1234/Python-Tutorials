@@ -1,0 +1,2 @@
+This is a stats file.
+This file is used to count number of lines, words and characters.

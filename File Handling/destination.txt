@@ -1,0 +1,2 @@
+This is a Source text.
+This text is used to copy all content and paste it destination.txt text.

@@ -1,0 +1,60 @@
+2025-04-30 18:52:29 - root - DEBUG - This is a debug message
+2025-04-30 18:52:29 - root - INFO - This is an info message
+2025-04-30 18:52:29 - root - WARNING - This is a warning message
+2025-04-30 18:52:29 - root - ERROR - This is an error message
+2025-04-30 18:52:29 - root - CRITICAL - This is a critical message
+2025-05-05 14:23:40,739 - DEBUG - This is a debug message
+2025-05-05 14:23:40,747 - INFO - This is an info message
+2025-05-05 14:23:40,747 - WARNING - This is a warning message
+2025-05-05 14:23:40,747 - ERROR - This is an error message
+2025-05-05 14:23:40,747 - CRITICAL - This is a critical message
+2025-05-05 14:27:56,015 - my_logger - DEBUG - This is a debug message
+2025-05-05 14:27:56,015 - DEBUG - This is a debug message
+2025-05-05 14:27:56,016 - my_logger - INFO - This is an info message
+2025-05-05 14:27:56,016 - INFO - This is an info message
+2025-05-05 14:27:56,018 - my_logger - WARNING - This is a warning message
+2025-05-05 14:27:56,018 - WARNING - This is a warning message
+2025-05-05 14:27:56,019 - my_logger - ERROR - This is an error message
+2025-05-05 14:27:56,019 - ERROR - This is an error message
+2025-05-05 14:27:56,019 - my_logger - CRITICAL - This is a critical message
+2025-05-05 14:27:56,019 - CRITICAL - This is a critical message
+2025-05-05 14:35:14,743 - my_logger - DEBUG - This is a debug message
+2025-05-05 14:35:14,743 - my_logger - DEBUG - This is a debug message
+2025-05-05 14:35:14,743 - DEBUG - This is a debug message
+2025-05-05 14:35:14,746 - my_logger - INFO - This is an info message
+2025-05-05 14:35:14,746 - my_logger - INFO - This is an info message
+2025-05-05 14:35:14,746 - INFO - This is an info message
+2025-05-05 14:35:14,748 - my_logger - WARNING - This is a warning message
+2025-05-05 14:35:14,748 - my_logger - WARNING - This is a warning message
+2025-05-05 14:35:14,748 - WARNING - This is a warning message
+2025-05-05 14:35:14,749 - my_logger - ERROR - This is an error message
+2025-05-05 14:35:14,749 - my_logger - ERROR - This is an error message
+2025-05-05 14:35:14,749 - ERROR - This is an error message
+2025-05-05 14:35:14,752 - my_logger - CRITICAL - This is a critical message
+2025-05-05 14:35:14,752 - my_logger - CRITICAL - This is a critical message
+2025-05-05 14:35:14,752 - CRITICAL - This is a critical message
+2025-05-05 14:40:33,709 - my_logger - DEBUG - This is a debug message
+2025-05-05 14:40:33,709 - my_logger - DEBUG - This is a debug message
+2025-05-05 14:40:33,709 - DEBUG - This is a debug message
+2025-05-05 14:40:33,709 - DEBUG - This is a debug message
+2025-05-05 14:40:33,712 - my_logger - INFO - This is an info message
+2025-05-05 14:40:33,712 - my_logger - INFO - This is an info message
+2025-05-05 14:40:33,712 - INFO - This is an info message
+2025-05-05 14:40:33,712 - INFO - This is an info message
+2025-05-05 14:40:33,713 - my_logger - WARNING - This is a warning message
+2025-05-05 14:40:33,713 - my_logger - WARNING - This is a warning message
+2025-05-05 14:40:33,713 - WARNING - This is a warning message
+2025-05-05 14:40:33,713 - WARNING - This is a warning message
+2025-05-05 14:40:33,717 - my_logger - ERROR - This is an error message
+2025-05-05 14:40:33,717 - my_logger - ERROR - This is an error message
+2025-05-05 14:40:33,717 - ERROR - This is an error message
+2025-05-05 14:40:33,717 - ERROR - This is an error message
+2025-05-05 14:40:33,718 - my_logger - CRITICAL - This is a critical message
+2025-05-05 14:40:33,718 - my_logger - CRITICAL - This is a critical message
+2025-05-05 14:40:33,718 - CRITICAL - This is a critical message
+2025-05-05 14:40:33,718 - CRITICAL - This is a critical message
+2025-05-05 14:44:08,043 - DEBUG - This is a debug message
+2025-05-05 14:44:08,046 - INFO - This is an info message
+2025-05-05 14:44:08,049 - WARNING - This is a warning message
+2025-05-05 14:44:08,049 - ERROR - This is an error message
+2025-05-05 14:44:08,052 - CRITICAL - This is a critical message
